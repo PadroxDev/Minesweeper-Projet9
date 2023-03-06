@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\avollet\Desktop\MineSweeper-console-display\MineSweeper\Array.h(15,38): warning C4031: seconde liste de paramètres formels plus longue que la première liste
+C:\Users\avollet\Desktop\MineSweeper-console-display\MineSweeper\Array.h(15,38): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\avollet\Desktop\MineSweeper-console-display\MineSweeper\Array.h(15,5): warning C4273: 'remove' : liaison DLL incohérente
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h(369,26): message : voir la définition précédente de 'remove'
+     Création de la bibliothèque C:\Users\avollet\Desktop\MineSweeper-console-display\x64\Debug\MineSweeper.lib et de l'objet C:\Users\avollet\Desktop\MineSweeper-console-display\x64\Debug\MineSweeper.exp
+  MineSweeper.vcxproj -> C:\Users\avollet\Desktop\MineSweeper-console-display\x64\Debug\MineSweeper.exe

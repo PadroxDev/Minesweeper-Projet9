@@ -1,0 +1,1 @@
+void Repeat(char c, int count);
